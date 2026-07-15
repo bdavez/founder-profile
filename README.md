@@ -55,7 +55,7 @@ Repo:
 A Wonderland‑themed external TXT content system integrated into a C++ game engine.
 
 Repo:  
-**`` [https://github.com/bdavez/Zercher---CPP-Game](https://github.com/bdavez/Zercher---CPP-Game)**
+**[https://github.com/bdavez/Zercher---CPP-Game](https://github.com/bdavez/Zercher---CPP-Game)**
 
 ---
 
