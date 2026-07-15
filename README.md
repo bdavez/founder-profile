@@ -1,3 +1,5 @@
+![Bitforge Founder Banner](banner.png)
+
 # **Bitforge Founder Profile**
 
 ## **👤 Founder: Davis (B) — Bitforge Innovations Inc.**
