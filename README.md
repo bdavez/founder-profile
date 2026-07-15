@@ -33,7 +33,7 @@ A public‑facing implementation of Bitforge’s memory architecture, designed t
 - support modular resolution routing  
 
 Repo:  
-**`https://github.com/bdavez/AI-Memory-Layer` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fbdavez%2FAI-Memory-Layer")**
+**`` [https://github.com/bdavez/AI-Memory-Layer](https://github.com/bdavez/AI-Memory-Layer)**
 
 ---
 
@@ -53,7 +53,7 @@ Repo:
 A Wonderland‑themed external TXT content system integrated into a C++ game engine.
 
 Repo:  
-**`https://github.com/bdavez/Zercher---CPP-Game` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fbdavez%2FZercher---CPP-Game")**
+**`` [https://github.com/bdavez/Zercher---CPP-Game](https://github.com/bdavez/Zercher---CPP-Game)**
 
 ---
 
