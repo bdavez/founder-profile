@@ -33,7 +33,7 @@ A public‑facing implementation of Bitforge’s memory architecture, designed t
 - support modular resolution routing  
 
 Repo:  
-**`` [https://github.com/bdavez/AI-Memory-Layer](https://github.com/bdavez/AI-Memory-Layer)**
+**[https://github.com/bdavez/AI-Memory-Layer](https://github.com/bdavez/AI-Memory-Layer)**
 
 ---
 
